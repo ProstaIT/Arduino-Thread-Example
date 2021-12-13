@@ -1,6 +1,6 @@
 # Arduino-Thread-Example
 Arduino Thread LED Example
 * Author of the code - ITProsta
- * Donat - https://www.donationalerts.com/r/prostaprogramming
- * https://github.com/ProstaIT
+ * Donation - https://www.donationalerts.com/r/prostaprogramming
+ * https://github.com/itprosta
  * https://www.youtube.com/c/ITPROSTA
